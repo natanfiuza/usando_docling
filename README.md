@@ -96,7 +96,21 @@ Siga os passos abaixo para instalar e configurar o ambiente de desenvolvimento:
     pipenv install --dev
     ```
 
-**Pronto!** Agora você já pode executar o programa (veja a seção "Utilização" para mais detalhes).
+**Pronto!** Agora você já pode executar o programa (veja a seção "[Utilização](#utilização)" para mais detalhes).
 
 
+## Utilização
 
+Execute o script `simple_conversion.py` para transformar `assets\doc\manual_frascati_2015_PT_BR.pdf` para `assets\doc\manual_frascati_2015_PT_BR.md`
+
+## Contribuições e Contato
+
+Contribuições para este projeto são bem-vindas! Se você tiver sugestões de melhorias, correções de bugs ou ideias para expandir a simulação, sinta-se à vontade para abrir uma *issue* ou enviar um *pull request* neste repositório.
+
+Para qualquer dúvida, sugestão ou feedback, entre em contato:
+
+**Natan Fiuza**
+
+**Email:** [contato@natanfiuza.dev.br](mailto:contato@natanfiuza.dev.br)
+
+Espero que este projeto seja útil e inspirador para estudantes e entusiastas da programação Python!
